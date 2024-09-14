@@ -1,9 +1,14 @@
-# Hello.Im Techfish_4
+# Hi there 👋 I'm Techfish_4!
 
-I am a middle school developer trying various languages based on Python.
+- 🌱 Middle school developer exploring various languages with a focus on Python.
+- 🖥️ Home server enthusiast, learning network security issues.
+- ⚙️ Current Project: [NSFW Detector](#)
+- 📫 Reach me on Discord: `techfish_1`
 
-I also operate a home server and have knowledge of various network security issues.
+## 🔧 Technologies & Tools
+- Python, JavaScript, Node.js, etc.
+- Docker, Git, Linux, Networking
 
-<span style="color: red;">DiscordID: techfish_1</span>
-
-[Website](https://techfish-portfolio.vercel.app/)
+## 🌐 Connect with me
+- [Website](https://techfish-portfolio.vercel.app/)
+- [GitHub](https://github.com/techfish-11)
