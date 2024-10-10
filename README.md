@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Techfish_4!
+# Hi there 👋 I'm TechFish_1!
 
 - 🌱 Middle school developer exploring various languages with a focus on Python.
 - 🖥️ Home server enthusiast, learning network security issues.
