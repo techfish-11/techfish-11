@@ -10,5 +10,4 @@
 - Docker, Git, Linux, Networking
 
 ## 🌐 Connect with me
-- [Website](https://techfish-portfolio.vercel.app/)
-- [GitHub](https://github.com/techfish-11)
+- [Website](https://sakana11.org/)
