@@ -2,7 +2,7 @@
 
 - 🌱 Middle school developer exploring various languages with a focus on Python.
 - 🖥️ Home server enthusiast, learning network security issues.
-- ⚙️ Current Project: `In preparation...`
+- ⚙️ Current Project: [LemonBot](https://lemon.sakana11.org/)
 - 📫 Reach me on Discord: `techfish_1`
 
 ## 🔧 Technologies & Tools
