@@ -2,7 +2,7 @@
 
 - 🌱 Middle school developer exploring various languages with a focus on Python.
 - 🖥️ Home server enthusiast, learning network security issues.
-- ⚙️ Current Project: [Swiftly](https://github.com/evex-dev/Swiftly-bot)
+- ⚙️ Current Project: null
 - 📫 Reach me on Discord: `techfish_1`
 
 ## 🔧 Technologies & Tools
