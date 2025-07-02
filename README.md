@@ -10,4 +10,4 @@
 - Docker, Git, Linux, Networking
 
 ## 🌐 Connect with me
-- [Website](https://sakana11.org/)
+- [Website](https://techfish.dev/)
