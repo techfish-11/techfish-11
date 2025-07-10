@@ -2,12 +2,14 @@
 
 - 🌱 Middle school developer exploring various languages with a focus on Python.
 - 🖥️ Home server enthusiast, learning network security issues.
-- ⚙️ Current Project: null
+- ⚙️ Current Project: maintaining home servers
 - 📫 Reach me on Discord: `techfish_1`
 
 ## 🔧 Technologies & Tools
-- Python, JavaScript, Node.js, etc.
-- Docker, Git, Linux, Networking
+- Python, JavaScript, Node.js, React
+- Docker, Git, Linux, Networking, UbuntuServer
 
-## 🌐 Connect with me
-- [Website](https://techfish.dev/)
+## 🌐 Domains
+- [sakana11.org](https://sakana11.org/)
+- [swiftlybot.com](https://swiftlybot.com)
+- [techfish.dev](https://techfish.dev/)
