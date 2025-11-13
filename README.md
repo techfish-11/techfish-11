@@ -1,81 +1,90 @@
-# 👋 Hi there, I'm techfish!!
+# こんにちは、techfishです!!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Student-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Home%20Server%20Enthusiast-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Python%20Developer-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Linux%20User-grey?style=flat-square" />
+  <img src="https://img.shields.io/badge/-学生-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-自宅サーバー愛好家-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Python開発者-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Linuxユーザー-grey?style=flat-square" />
 </p>
 
+## 🚀 自己紹介
 
-## 🚀 About Me
+- 📚 **学生開発者**として、テクノロジー・自動化・ネットワークセキュリティを勉強しています。
+- 🏠 MinecraftからWebサービスまで、様々なプロジェクトのために自宅サーバーを運用・管理しています。
+- 💡 Linux、コンテナ、ネットワーク、クラウドホスティングの基幹技術に興味があります。
+- 🎮 2,000人規模のDiscordコミュニティのモデレーター、複数の中規模マイクラサーバーにサーバー提供を行っています。
+- 🛠️ [Hono](https://github.com/honojs/hono)などのオープンソースプロジェクトに貢献しました。
+- 🌐 ポートフォリオやBot、自動化など、すべて自分のインフラで管理・運用しています。
+- ☁️ ドローンを飛ばすことができる知識と技術を持っています。 DJI Mini 3を所有し、空撮や趣味での飛行を楽しんでいます。
 
-- 📚 **Student developer** passionate about tech, automation, and network security.
-- 🏠 Running and maintaining home servers for various projects, from Minecraft to web services.
-- 💡 Interested in Linux, containers, networking, and cloud-native tech.
-- 🎮 Moderator for a 2,000-member Discord community, and operator for a 100-member Minecraft server.
-- 🛠️ Contributor to open-source projects, including [Hono](https://github.com/honojs/hono).
-- 🌐 Portfolio, bots, automation, and more—all managed and deployed from my own infrastructure.
+## 🛠️ スキル・技術
 
-## 🛠️ Skills & Technologies
+**言語・フレームワーク**
+- Python、JavaScript、TypeScript、Swift、Flutter、Node.js、Next.js
 
-**Languages & Frameworks**
-- Python, JavaScript, TypeScript, Swift, Flutter, Node.js, Next.js
+**DevOps・サーバー管理**
+- Linux（UbuntuServer、systemd）、Proxmox VE、Docker、k3s、Windows Server
+- 仮想化：Proxmox VE、VirtualBox、Hyper-V
+- データベース：PostgreSQL、MySQL、Redis
 
-**DevOps & Server Management**
-- Linux (UbuntuServer, systemd), Proxmox VE, Docker, k3s, Windows Server
-- Virtualization: Proxmox VE, VirtualBox, Hyper-V
-- Databases: PostgreSQL, MySQL, Redis
+**ネットワーク・セキュリティ**
+- VPN（WireGuard、Tailscale）、DHCP、DNS（Unbound、Nginx）
+- ファイアウォール：iptables、fail2ban、ModSecurity
+- SSL：Let's Encrypt
+- SSH強化
 
-**Networking & Security**
-- VPN (WireGuard, Tailscale), DHCP, DNS (Unbound, Nginx)
-- Firewall: iptables, fail2ban, ModSecurity
-- SSL: Let's Encrypt
-- SSH hardening
+**Web・アプリ開発**
+- フロントエンド/バックエンド：Next.js、JavaScript、TypeScript
+- iOS/Android：Swift、Flutter
 
-**Web & App Development**
-- Frontend/Backend: Next.js, JavaScript, TypeScript
-- iOS/Android: Swift, Flutter
+**自動化・監視**
+- Jenkins、Zabbix、Grafana、Prometheus、Gitea、Pterodactyl Panel、Mattermost、Active Directory（構築の一部）
 
-**Automation & Monitoring**
-- Jenkins, Zabbix, Grafana, Prometheus, Gitea, Pterodactyl Panel, Mattermost, Active Directory (partial setup)
+## 🏆 経験
 
+- 🖥️ [複数の中規模マイクラサーバー](https://techfish.dev/services)にサーバー提供を行っています。
+- 🛡️ 2,000人規模のDiscordコミュニティのモデレーター
+- 🏫 学校向けソフトウェアの開発・提供
+- 🌍 [ポートフォリオWeb](https://techfish.dev/)の自動デプロイ
+- 🤖 [大規模Discord Bot](https://github.com/techfish-11/SwiftlyTTS)の構築・運用・保守
+- 🧑‍💻 [Hono](https://github.com/honojs/hono)への[貢献](https://github.com/honojs/hono/pull/4171)
 
-## 🏆 Experience
-
-- 🖥️ Provided server infrastructure for a 100-member Minecraft server.
-- 🛡️ Moderator of a 2,000-user Discord community.
-- 🏫 Developed and delivered software for school use.
-- 🌍 Automated portfolio web deployments.
-- 🤖 Built, deployed, and maintained large-scale Discord bots.
-- 🧑‍💻 Contributed code to [Hono](https://github.com/honojs/hono).
-
-## 🖥️ Devices
+## 🖥️ 使用デバイス
 
 - 💻 MacBook Air M4
-- 🖥️ Intel Core i7 14gen BTO PC
+- 🖥️ Intel Core i7 14世代 PC
 - 📱 Galaxy S25
+- 🛩️ DJI Mini 3
 
-## 📫 Contact
+## 📫 連絡先
 
 - Discord: `techfish_1`
 - GitHub: [techfish-11](https://github.com/techfish-11)
 
-## 🌐 My Domains
+## 🌐 ドメイン
 
 - [sakana11.org](https://sakana11.org/)
 - [swiftlybot.com](https://swiftlybot.com)
 - [techfish.dev](https://techfish.dev/)
 
-## 📊 Skill Matrix
+## 📊 スキルマトリクス
 
-| Category              | Technologies / Tools                           | Skill Level    |
+| カテゴリ                | 技術・ツール                                      | スキルレベル    |
 |-----------------------|------------------------------------------------|----------------|
-| **Server Management** | Proxmox VE, Ubuntu, k3s, Windows Server, systemd | ★★★★☆         |
-| **DB Ops**            | PostgreSQL, MySQL, Redis                       | ★★☆☆☆         |
-| **Security**          | iptables, Let's Encrypt, fail2ban, SSH, ModSecurity | ★★★★☆     |
-| **Networking**        | Tailscale, WireGuard, Nginx, DHCP, Unbound     | ★★★★☆         |
-| **Web Dev**           | Next.js, JS/TS                                 | ★☆☆☆☆         |
-| **Virtualization/Container** | Docker, VirtualBox, Hyper-V, Proxmox VE       | ★★★☆☆         |
-| **App Dev**           | Swift, Flutter                                 | ★★★☆☆         |
-| **Other Ops**         | Jenkins, Gitea, Zabbix, Grafana, Prometheus, Pterodactyl, Mattermost | ★★★☆☆ |
+| **サーバー管理**         | Proxmox VE、Ubuntu、k3s、Windows Server、systemd | ★★★★☆         |
+| **DB運用**              | PostgreSQL、MySQL、Redis                        | ★★☆☆☆         |
+| **セキュリティ**         | iptables、Let's Encrypt、fail2ban、SSH、ModSecurity | ★★★★☆     |
+| **ネットワーク**         | Tailscale、WireGuard、Nginx、DHCP、Unbound      | ★★★★☆         |
+| **Web開発**             | Next.js、JS/TS                                  | ★★★☆☆         |
+| **仮想化/コンテナ**       | Docker、VirtualBox、Hyper-V、Proxmox VE         | ★★★☆☆         |
+| **スマホアプリ開発**           | Swift、Flutter                                  | ★★★☆☆         |
+| **その他運用**           | Jenkins、Gitea、Zabbix、Grafana、Prometheus、Pterodactyl、Mattermost | ★★★☆☆ |
+
+## スクリーンショット
+
+<p align="center">
+  <img src="Grafana.png" alt="Grafana ダッシュボードのスクリーンショット" width="600"/>
+</p>
+<p align="center">
+  <img src="ProxmoxVE.png" alt="Grafana ダッシュボードのスクリーンショット" width="600"/>
+</p>
