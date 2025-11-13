@@ -66,19 +66,6 @@ https://techfish.dev/inquiry
 - [swiftlybot.com](https://swiftlybot.com)
 - [techfish.dev](https://techfish.dev/)
 
-## スキルマトリクス
-
-| カテゴリ                | 技術・ツール                                      | スキルレベル    |
-|-----------------------|------------------------------------------------|----------------|
-| サーバー管理           | Proxmox VE、Ubuntu、k3s、Windows Server、systemd | ★★★★☆         |
-| DB運用                | PostgreSQL、MySQL、Redis                        | ★★☆☆☆         |
-| セキュリティ           | iptables、Let's Encrypt、fail2ban、SSH、ModSecurity | ★★★★☆     |
-| ネットワーク           | Tailscale、WireGuard、Nginx、DHCP、Unbound      | ★★★★☆         |
-| Web開発               | Next.js、JS/TS                                  | ★★★☆☆         |
-| 仮想化/コンテナ        | Docker、VirtualBox、Hyper-V、Proxmox VE         | ★★★☆☆         |
-| スマホアプリ開発       | Swift、Flutter                                  | ★★★☆☆         |
-| その他運用            | Jenkins、Gitea、Zabbix、Grafana、Prometheus、Pterodactyl、Mattermost | ★★★☆☆ |
-
 ## スクリーンショット
 
 <p align="center">
