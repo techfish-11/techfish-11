@@ -59,6 +59,10 @@
 ## Contact
 https://techfish.dev/inquiry
 
+The inquiry system is currently down and may be unavailable.
+If you are unable to use it, please contact us via Discord below.
+`kurage.1`
+
 ## Domains
 
 - [sakana11.org](https://sakana11.org/)
