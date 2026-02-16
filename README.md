@@ -1,76 +1,81 @@
-# Hi, I'm techfish!!
+# こんにちは、techfishです。
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Student-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Homelab&nbsp;Enthusiast-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Python&nbsp;Developer-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Linux&nbsp;User-grey?style=flat-square" />
+  <img src="https://img.shields.io/badge/-学生-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-自宅サーバー愛好家-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Python開発者-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Linuxユーザー-grey?style=flat-square" />
 </p>
 
-## About Me
+## 自己紹介
 
-- Student developer interested in technology, automation, and network security
-- Operating and managing everything from Minecraft servers to web services on self-hosted infrastructure
-- Strong interest in large-scale cloud infrastructure technologies
-- OSS contributor, including projects like [Hono](https://github.com/honojs/hono)
-- Running portfolios and bots on my own infrastructure
-- Enjoy aerial photography and flying drones with DJI Mini 3
+- 技術、オートメーション、ネットワークセキュリティに強い関心を持つ学生デベロッパー
+- MinecraftサーバーからWebサービスまで、自宅インフラ上で構築・運用
+- 大規模クラウドインフラ技術に興味があります
+- OSSへのコントリビュート（例：Hono）
+- ポートフォリオやボットを自前インフラで運用
+- DJI Mini 3でのドローン飛行・空撮が趣味
 
-## Skills & Technologies
+## スキル・技術
 
-### Languages & Frameworks
+### 言語・フレームワーク
 `Python` / `JavaScript` / `TypeScript` / `Swift` / `Flutter` / `Node.js` / `Next.js`
 
-### DevOps & Server Management
-- Linux (Ubuntu Server, systemd), Proxmox VE, Docker, k3s, Windows Server
-- Virtualization: Proxmox VE, VirtualBox, Hyper-V
-- Databases: PostgreSQL, MySQL, Redis
+### DevOps・サーバー管理
+- Linux（Ubuntu Server、systemd）、Proxmox VE、Docker、k3s、Windows Server
+- 仮想化：Proxmox VE、VirtualBox、Hyper-V
+- データベース：PostgreSQL、MySQL、Redis
 
-### Networking & Security
-- VPN: WireGuard, Tailscale, DHCP, DNS (Unbound, Nginx)
-- Firewalls: iptables, fail2ban, ModSecurity, CrowdSec
-- SSL/TLS: Let's Encrypt
+### ネットワーク・セキュリティ
+- VPN：WireGuard、Tailscale
+- DHCP、DNS（Unbound、Nginx）
+- ファイアウォール：iptables、fail2ban、ModSecurity、CrowdSec
+- SSL/TLS：Let's Encrypt
 
-### Web & App Development
-- Frontend / Backend: Next.js, JS/TS
-- iOS / Android: Swift, Flutter
+### Web・アプリ開発
+- フロントエンド／バックエンド：Next.js、JavaScript / TypeScript
+- iOS／Android：Swift、Flutter
 
-### Automation & Monitoring
-- Jenkins, Zabbix, Grafana, Prometheus, Gitea, Pterodactyl Panel, Mattermost, Active Directory (partial setup)
+### 自動化・監視
+- Jenkins、Zabbix、Grafana、Prometheus、Gitea、Pterodactyl Panel、Mattermost、Active Directory（一部構築）
 
-## Experience
+## 実績・活動
 
-- Providing multiple medium-scale [Minecraft servers](https://techfish.dev/services)
-- Moderator of a 2,000+ member Discord community
-- Development and deployment of software for schools
-- Automatic deployment for my [portfolio website](https://techfish.dev/)
-- Building, operating, and maintaining a [large-scale Discord bot](https://github.com/techfish-11/SwiftlyTTS)
-- Contributions to [Hono](https://github.com/honojs/hono) via [pull requests](https://github.com/honojs/hono/pull/4171)
+- 中規模Minecraftサーバーの提供・運営  
+  https://techfish.dev/services
+- 2,000人規模のDiscordコミュニティ モデレーター
+- 学校向けソフトウェアの開発・導入
+- ポートフォリオサイトの自動デプロイ構築  
+  https://techfish.dev/
+- 大規模Discordボットの設計・運用  
+  https://github.com/techfish-11/SwiftlyTTS
+- HonoへのPull Requestによる貢献  
+  https://github.com/honojs/hono/pull/4171
 
-## Devices
+## 使用デバイス
 
-| Device           | Details                 |
-|------------------|-------------------------|
-| Laptop           | MacBook Air M4          |
-| Desktop PC       | Intel Core i7 14th Gen  |
-| Smartphone       | Galaxy S25              |
-| Drone            | DJI Mini 3              |
+| デバイス | 詳細 |
+|----------|------|
+| ノートPC | MacBook Air M4 |
+| デスクトップ | Intel Core i7 第14世代 |
+| スマートフォン | Galaxy S25 |
+| ドローン | DJI Mini 3 |
 
-## Contact
+## お問い合わせ
 https://techfish.dev/inquiry
 
-## Domains
+## ドメイン
 
-- [sakana11.org](https://sakana11.org/)
-- [swiftlybot.com](https://swiftlybot.com)
-- [techfish.dev](https://techfish.dev/)
+- https://sakana11.org/
+- https://swiftlybot.com
+- https://techfish.dev/
 
-## Screenshots
+## スクリーンショット
 
 <p align="center">
-  <img src="Grafana.png" alt="Screenshot of Grafana dashboard" width="48%"/>
-  <img src="ProxmoxVE.png" alt="Screenshot of Proxmox VE" width="48%"/>
+  <img src="Grafana.png" alt="Grafanaダッシュボードのスクリーンショット" width="48%"/>
+  <img src="ProxmoxVE.png" alt="Proxmox VEの管理画面" width="48%"/>
 </p>
 <p align="center">
-  <span>Left: Home server monitoring dashboard in Grafana / Right: Proxmox VE management panel</span>
+  <span>左：Grafanaによる自宅サーバー監視ダッシュボード / 右：Proxmox VE管理パネル</span>
 </p>
