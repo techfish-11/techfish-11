@@ -1,5 +1,6 @@
-# こんにちは、techfishです。
-
+<h1 align="center">
+  こんにちは、techfishです。
+</h1>  
 <p align="center">
   <img src="https://img.shields.io/badge/-学生-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/-自宅サーバー愛好家-green?style=flat-square" />
