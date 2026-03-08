@@ -9,9 +9,9 @@
 
 ## 自己紹介
 
-- 技術、オートメーション、ネットワークセキュリティに強い関心を持つ学生デベロッパー
+- 技術、オートメーション、ネットワークセキュリティを理解している学生デベロッパー
 - MinecraftサーバーからWebサービスまで、自宅インフラ上で構築・運用
-- 大規模クラウドインフラ技術に興味があります
+- 大規模クラウドインフラ技術と、ISPのバックボーン技術に興味がある
 - OSSへのコントリビュート（例：Hono）
 - ポートフォリオやボットを自前インフラで運用
 - DJI Mini 3でのドローン飛行・空撮が趣味
@@ -37,7 +37,7 @@
 - iOS／Android：Swift、Flutter
 
 ### 自動化・監視
-- Jenkins、Zabbix、Grafana、Prometheus、Gitea、Pterodactyl Panel、Mattermost、Active Directory（一部構築）
+- Jenkins、Zabbix、Grafana、Prometheus、Gitea、Pterodactyl Panel、Mattermost、Active Directory（構築の一部）、SNMP
 
 ## 実績・活動
 
@@ -50,7 +50,6 @@
 - 大規模Discordボットの設計・運用  
   https://github.com/techfish-11/SwiftlyTTS
 - HonoへのPull Requestによる貢献  
-  https://github.com/honojs/hono/pull/4171
 
 ## 使用デバイス
 
@@ -77,5 +76,5 @@ https://techfish.dev/inquiry
   <img src="ProxmoxVE.png" alt="Proxmox VEの管理画面" width="48%"/>
 </p>
 <p align="center">
-  <span>左：Grafanaによる自宅サーバー監視ダッシュボード / 右：Proxmox VE管理パネル</span>
+  <span>左：Grafana自宅サーバー監視ダッシュボード / 右：Proxmox VE管理パネル</span>
 </p>
