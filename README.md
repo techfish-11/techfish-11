@@ -10,17 +10,13 @@
 
 ## 自己紹介
 
-- 技術、オートメーション、ネットワークセキュリティを理解している学生デベロッパー
+- サーバー、オートメーション、ネットワークセキュリティを理解している学生デベロッパー
 - MinecraftサーバーからWebサービスまで、自宅インフラ上で構築・運用
 - 大規模クラウドインフラ技術と、ISPのバックボーン技術に興味がある
 - OSSへのコントリビュート（例：Hono）
-- ポートフォリオやボットを自前インフラで運用
 - DJI Mini 3でのドローン飛行・空撮が趣味
 
 ## スキル・技術
-
-### 言語・フレームワーク
-`Python` / `JavaScript` / `TypeScript` / `Swift` / `Flutter` / `Node.js` / `Next.js`
 
 ### DevOps・サーバー管理
 - Linux（Ubuntu Server、systemd）、Proxmox VE、Docker、k3s、Windows Server
@@ -34,7 +30,7 @@
 - SSL/TLS：Let's Encrypt
 
 ### Web・アプリ開発
-- フロントエンド／バックエンド：Next.js、JavaScript / TypeScript
+- フロントエンド／バックエンド：Next.js, Hono
 - iOS／Android：Swift、Flutter
 
 ### 自動化・監視
@@ -43,14 +39,12 @@
 ## 実績・活動
 
 - 中規模Minecraftサーバーの提供・運営  
-  https://techfish.dev/services
 - 2,000人規模のDiscordコミュニティ モデレーター
 - 学校向けソフトウェアの開発・導入
 - ポートフォリオサイトの自動デプロイ構築  
-  https://techfish.dev/
 - 大規模Discordボットの設計・運用  
-  https://github.com/techfish-11/SwiftlyTTS
-- HonoへのPull Requestによる貢献  
+  https://swiftlybot.com
+- Honoへの貢献とCVE取得
 
 ## 使用デバイス
 
@@ -63,6 +57,11 @@
 
 ## お問い合わせ
 https://techfish.dev/inquiry
+
+## メールアドレス
+個人用：root@sakana11.org
+NOC: noc@sakana11.org
+不正利用報告: abuse@sakana11.org
 
 ## ドメイン
 
