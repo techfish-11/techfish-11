@@ -58,10 +58,13 @@
 ## お問い合わせ
 https://techfish.dev/inquiry
 
-## メールアドレス
-個人用：root@sakana11.org
-NOC: noc@sakana11.org
-不正利用報告: abuse@sakana11.org
+## メールアドレス / PGP
+
+For encrypted email, use my OpenPGP public key.
+
+- Email: `me@techfish.dev`
+- Fingerprint: `8B52 D7BE 955E F1F3 AFDA  D4B3 57C4 F68D 1623 1D53`
+- Public key: [`pgp.asc`](./pgp.asc)
 
 ## ドメイン
 
