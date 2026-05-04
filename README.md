@@ -60,7 +60,7 @@ https://techfish.dev/inquiry
 
 ## メールアドレス / PGP
 
-For encrypted email, use my OpenPGP public key.
+暗号化メールには、私のOpenPGP公開鍵を使用してください。
 
 - Email: `me@techfish.dev`
 - Fingerprint: `8B52 D7BE 955E F1F3 AFDA  D4B3 57C4 F68D 1623 1D53`
