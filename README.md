@@ -55,9 +55,6 @@
 | スマートフォン | Galaxy S25 |
 | ドローン | DJI Mini 3 |
 
-## お問い合わせ
-https://techfish.dev/inquiry
-
 ## メールアドレス / PGP
 
 暗号化メールには、私のOpenPGP公開鍵を使用してください。
