@@ -16,6 +16,8 @@
   <a href="https://techfish.dev">Website</a>
   ・
   <a href="https://swiftlybot.com">Swiftly読み上げbot</a>
+  ・
+  <a href="https://sorahost.net">SORAHOST</a>
 </p>
 
 ## 👋 About Me
